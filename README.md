@@ -1,4 +1,4 @@
-### Hello, and welcome to my GitHub!  I'm going by Sylvie now, but you might find some of my old work under the name Colton.  I am a software developer looking to new and exciting things.
+### Hello, and welcome to my GitHub!  My name is Sylvie&mdash;I am a generalist software developer who loves to learn new and exciting things.
 
 - 🔭 I’m currently working on **Control Systems**
 - 🌱 I’m currently learning **Graphics Programming**
